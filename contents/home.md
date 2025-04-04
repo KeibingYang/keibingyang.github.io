@@ -11,5 +11,5 @@ kaibing_yang[at]tju.edu.cn
 Undergraduate Student Artificial Intelligent, Tianjin University's School of Future Technology, 2022—2026 (expected)
 
 #### Research Interests
-Multimodal large-scale models, especially multimodal perception, understanding, reasoning and generation and apply it to verticals such as medical multimodal large models
+Multimodal large models, especially multimodal perception, understanding, reasoning and generation and apply it to verticals such as medical multimodal large models
 

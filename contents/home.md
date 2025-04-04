@@ -1,6 +1,6 @@
 
 
-[![keibingYang](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/KeibingYang)
+[![keibingYang](https://img.shields.io/badge/kaibingyang-github-blue?logo=github)](https://github.com/KeibingYang)
 
 He is currently studying Artificial Intelligent at Tianjin University's School of Future Technology, graduating in 2026.
 

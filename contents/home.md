@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![keibingYang](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/KeibingYang)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently studying Artificial Intelligent at Tianjin University's School of Future Technology, graduating in 2026.
 
 #### Email
-sli[at]cumt.edu.cn
+kaibing_yang[at]tju.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Undergraduate Student Artificial Intelligent, Tianjin University's School of Future Technology, 2022—2026 (expected)
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Multimodal large-scale models, especially multimodal perception, understanding, reasoning and generation and apply it to verticals such as medical multimodal large models
 

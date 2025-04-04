@@ -1,13 +1,11 @@
-- National Scholarship of Graduate Student, 2024.
+- Future Institute of Technology Distinguished Student, 2025.
 
-- First-prize Scholarship of CUMT, 2024.
+- Three Good Students of Tianjin University, 2024-2025.
 
-- First-prize Scholarship of CUMT, 2023.
+- Outstanding Communist Youth League Member, 2022-2024.
 
-- Freshman Scholarship of CUMT, 2022.
+- Four-Star Volunteer, 2023-2025.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Advanced Individuals in Society Activities, 2022-2025.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Advanced Individual in Social Service, 2022-2025.
